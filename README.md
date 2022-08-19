@@ -1,0 +1,2 @@
+# Women-Business-Law-Economic-Indepdendence
+Project analysis measuring gender differences in the law. Analysis of 35 data points scored across 8 indicators. The WBL index scores are based on the average of each economy’s scores for the 8 topics included in this year’s aggregate score. A higher score indicates more gender equal laws. The dataset includesWomen, Business and the Law (WBL) data from 190 economies, indexed from 1970 to 2019.
